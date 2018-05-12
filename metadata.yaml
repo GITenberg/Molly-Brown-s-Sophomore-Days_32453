@@ -1,0 +1,34 @@
+_repo: Molly-Brown-s-Sophomore-Days_32453
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 32453-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Speed, Nell
+    birthdate: 1878
+    deathdate: 1913
+    gutenberg_agent_id: '9429'
+    url: http://www.gutenberg.org/2009/agents/9429
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+title: Molly Brown's Sophomore Days
+url: http://www.gutenberg.org/ebooks/32453
